@@ -1,6 +1,7 @@
 div
 {
   box-sizing: border-box;
+  overflow: hidden;
 }
 
 h4
@@ -19,7 +20,7 @@ h4
   border-style: solid;
   border-width: 1px;
   width: 69%;
-  height: 48vh;
+  height: 48%;
   text-align: center;
   margin: 10% auto;
 }
