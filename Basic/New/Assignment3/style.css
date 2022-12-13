@@ -1,0 +1,87 @@
+div
+{
+    box-sizing:border-box;
+}
+
+.box
+{
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    width: 940px;
+    height: 490px;
+    font-family: cursive;
+    margin: 50px auto;
+}
+
+.inside
+{
+    background-color: #F00000;
+    width: 900px;
+    height: 450px;
+    position: relative;
+    display: inline-block;
+}
+
+.insidebox
+{
+    position: absolute;
+    bottom: 30px;
+    width: 900px;
+    height: 200px;
+    text-align: left;
+    color: white;
+}
+
+.box1,.box2,.box3
+{
+    padding: 30px;
+    height: 230px;
+    width: 299px;
+    background-color: #680000;
+}
+
+.box1, .box2
+{
+    float: left;
+    margin-right: 1.5px;
+}
+
+.box3
+{
+    float: right;
+}
+
+h3
+{
+    font-size: 15px;
+    display: block;
+}
+
+p
+{
+    font-size: 10px;
+    overflow: auto;
+}
+
+h1
+{
+    color: white;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+img
+{
+    margin-right: 150px;
+    float: right;
+    width: 220px;
+    margin-top: -150px;
+}
+
+#last
+{
+    padding: 10px 0px;
+    font-size: 10px;
+    overflow: auto;
+}
