@@ -1,6 +1,8 @@
-div
+*
 {
-    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 .box
@@ -76,7 +78,7 @@ img
     margin-right: 150px;
     float: right;
     width: 220px;
-    margin-top: -150px;
+    margin-top: -130px;
 }
 
 #last

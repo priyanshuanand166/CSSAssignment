@@ -1,12 +1,9 @@
 *{
     padding: 0;
     margin: 0;
-}
-
-div
-{
     box-sizing: content-box;
 }
+
 .box
 {
     height: 316px;
